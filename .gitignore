@@ -1,0 +1,4 @@
+node_modules/
+data/
+csp-reports.log*
+.env
